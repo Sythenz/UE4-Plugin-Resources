@@ -24,7 +24,9 @@ Orfeas Elftheriou:
 
 ## Slate:
 
+* [Clinton Freeman - Custom Icons for Actor and Component Classes (SlateStyleSets)](https://www.freemancw.com/2016/05/custom-icons-in-unreal-engine-4/)
+
 
 
 ## Graphs:
-* [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/)
+* [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
