@@ -1,6 +1,9 @@
 ## About
 This repo is just a list of resources I have found when doing research on Slate, and Unreal Engine plugin development. 
-Hopefully, this will be useful to some others
+Hopefully, this will be useful to some others.
+
+Please pull request any resources you have! If you cannot for whatever reason, feel free to contact me on twitter.
+[@Codekittah](http://twitter.com/Codekittah)
 
 ### Note:
 Some of the best resources you can find on Slate specifically already exist in Unreal Engine. My go-to method usually is to use
