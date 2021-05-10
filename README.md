@@ -35,7 +35,7 @@ Orfeas Elftheriou:
 ## Slate:
 
 * [Clinton Freeman - Custom Icons for Actor and Component Classes (SlateStyleSets)](https://www.freemancw.com/2016/05/custom-icons-in-unreal-engine-4/)
-( [Jan Wlosok - Editor Plugins Series (#5 parts on website)](http://wlosok.cz/editor-plugins-in-ue4-2-a-few-tips/)
+* [Jan Wlosok - Editor Plugins Series (#5 parts on website)](http://wlosok.cz/editor-plugins-in-ue4-2-a-few-tips/)
 ## Plugins:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
 
