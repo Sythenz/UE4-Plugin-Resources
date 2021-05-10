@@ -27,10 +27,14 @@ KantanDev:
 * [Kantan Dev - Details Panel Customizations](http://kantandev.com/articles/details-panel-customization)
 
 
-Orfeas Elftheriou:
+Orfeas Eleftheriou:
 * [Orfeas Eleftheriou - Plugin Creation in UE4](https://www.orfeasel.com/plugin-creation-in-ue4/)
 * [Orfeas Eleftheriou - Creating Custom Modules](https://www.orfeasel.com/creating-custom-modules/)
 * [Orfeas Eleftheriou - Creating Custom Editor Assets](https://www.orfeasel.com/creating-custom-editor-assets/)
+
+Daniel Butum
+* [Daniel Butum - Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem/tree/4.26)
+
 
 ## Slate:
 
