@@ -44,10 +44,12 @@ Orfeas Eleftheriou:
 ### Plugins:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
 
+## Graphs:
+* [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
+
+
 ## Git Repositories:
 
 * [Daniel Butum - Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem/tree/4.26)
 * [MothDoctor - Flow Graph, a graph editor tailed for scripting event flow](https://github.com/MothCocoon/FlowGraph)
 
-## Graphs:
-* [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
