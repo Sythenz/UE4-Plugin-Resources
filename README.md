@@ -29,15 +29,10 @@ KantanDev:
 * [Kantan Dev - Code Modules](http://kantandev.com/articles/ue4-code-modules)
 * [Kantan Dev - Details Panel Customizations](http://kantandev.com/articles/details-panel-customization)
 
-
 Orfeas Eleftheriou:
 * [Orfeas Eleftheriou - Plugin Creation in UE4](https://www.orfeasel.com/plugin-creation-in-ue4/)
 * [Orfeas Eleftheriou - Creating Custom Modules](https://www.orfeasel.com/creating-custom-modules/)
 * [Orfeas Eleftheriou - Creating Custom Editor Assets](https://www.orfeasel.com/creating-custom-editor-assets/)
-
-Daniel Butum
-* [Daniel Butum - Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem/tree/4.26)
-
 
 ## Slate:
 
@@ -45,6 +40,11 @@ Daniel Butum
 * [Jan Wlosok - Editor Plugins Series (#5 parts on website)](http://wlosok.cz/editor-plugins-in-ue4-2-a-few-tips/)
 ## Plugins:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
+
+## Git Repositories:
+
+* [Daniel Butum - Dialogue System Plugin](https://github.com/NotYetGames/DlgSystem/tree/4.26)
+* [MothDoctor - Flow Graph, a graph editor tailed for scripting event flow](https://github.com/MothCocoon/FlowGraph)
 
 ## Graphs:
 * [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
