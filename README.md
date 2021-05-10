@@ -2,8 +2,18 @@
 This repo is just a list of resources I have found when doing research on Slate, and Unreal Engine plugin development. 
 Hopefully, this will be useful to some others
 
-❤️
+### Note:
+Some of the best resources you can find on Slate specifically already exist in Unreal Engine. My go-to method usually is to use
+the Widget Reflector ``Window > Developer Tools > Widget Reflector``and then looking for a given slate widget, e.g:
+``SPlacementAssetThumbnail``, searching for this across the full UE4 solution.
 
+Alternatively, if it's really some specific area of the editor, search the solution for whats on screen. E.g:
+``"World Outliner"`` or ``"Blueprint\Add Script"`` - ensuring to add the quotations, as you're searching for a string 
+as a starting point.
+
+Hope that tip helps too!
+
+❤️
 
 ## General:
 
