@@ -1,4 +1,4 @@
-## About
+# About
 This repo is just a list of resources I have found when doing research on Slate, and Unreal Engine plugin development. 
 Hopefully, this will be useful to some others.
 
@@ -18,7 +18,9 @@ Hope that tip helps too!
 
 ❤️
 
-## General:
+# Tutorials:
+
+### Modules and General Plugin Development:
 
 Unreal Engine:
 * [UE4 Documentation - Modules](https://docs.unrealengine.com/en-US/ProductionPipelines/BuildTools/UnrealBuildTool/ModuleFiles/index.html)
@@ -34,11 +36,12 @@ Orfeas Eleftheriou:
 * [Orfeas Eleftheriou - Creating Custom Modules](https://www.orfeasel.com/creating-custom-modules/)
 * [Orfeas Eleftheriou - Creating Custom Editor Assets](https://www.orfeasel.com/creating-custom-editor-assets/)
 
-## Slate:
+### Slate:
 
 * [Clinton Freeman - Custom Icons for Actor and Component Classes (SlateStyleSets)](https://www.freemancw.com/2016/05/custom-icons-in-unreal-engine-4/)
 * [Jan Wlosok - Editor Plugins Series (#5 parts on website)](http://wlosok.cz/editor-plugins-in-ue4-2-a-few-tips/)
-## Plugins:
+
+### Plugins:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
 
 ## Git Repositories:
