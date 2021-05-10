@@ -19,6 +19,8 @@ Hopefully, this will be useful to some others
 * [Orfeas Eleftheriou - Creating Custom Modules](https://www.orfeasel.com/creating-custom-modules/)
 * [Orfeas Eleftheriou - Creating Custom Editor Assets](https://www.orfeasel.com/creating-custom-editor-assets/)
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 ## Slate:
 
 
