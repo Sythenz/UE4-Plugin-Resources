@@ -44,6 +44,7 @@ Orfeas Eleftheriou:
 ### Plugins:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
 * [Ben UI - BYG Rich Text plugin](https://benui.ca/unreal/byg-rich-text/)
+* [Ben UI - BYG Localization plugin](https://benui.ca/unreal/byg-localization/)
 
 ### Graphs:
 * [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
