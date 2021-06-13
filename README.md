@@ -36,6 +36,9 @@ Orfeas Eleftheriou:
 * [Orfeas Eleftheriou - Creating Custom Modules](https://www.orfeasel.com/creating-custom-modules/)
 * [Orfeas Eleftheriou - Creating Custom Editor Assets](https://www.orfeasel.com/creating-custom-editor-assets/)
 
+Alessa Baker:
+* [Alessa Baker - Custom Details Panels with FPropertyEditorModule](https://codekittah.medium.com/custom-details-panels-in-unreal-engine-fpropertyeditormodule-6fe41ba7c339) 
+
 ### Slate:
 
 * [Clinton Freeman - Custom Icons for Actor and Component Classes (SlateStyleSets)](https://www.freemancw.com/2016/05/custom-icons-in-unreal-engine-4/)
