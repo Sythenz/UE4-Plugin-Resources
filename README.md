@@ -40,7 +40,7 @@ Alessa Baker:
 * [Alessa Baker - Custom Details Panels with FPropertyEditorModule](https://codekittah.medium.com/custom-details-panels-in-unreal-engine-fpropertyeditormodule-6fe41ba7c339) 
 
 ### Slate:
-
+* [Ben UI - Full Breakdown and examples of UProperty Specifiers](https://benui.ca/unreal/uproperty/)
 * [Clinton Freeman - Custom Icons for Actor and Component Classes (SlateStyleSets)](https://www.freemancw.com/2016/05/custom-icons-in-unreal-engine-4/)
 * [Jan Wlosok - Editor Plugins Series (#5 parts on website)](http://wlosok.cz/editor-plugins-in-ue4-2-a-few-tips/)
 
