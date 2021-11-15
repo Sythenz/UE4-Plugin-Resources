@@ -48,6 +48,7 @@ Alessa Baker:
 * [Alessa Baker - Making an custom HLSL Directory, and writing HLSL outside of Unreal](https://www.youtube.com/watch?v=V3BVsYV7ge0)
 * [Ben UI - BYG Rich Text plugin](https://benui.ca/unreal/byg-rich-text/)
 * [Ben UI - BYG Localization plugin](https://benui.ca/unreal/byg-localization/)
+* [dhk-room101 - Unreal Dialogue Editor](https://github.com/dhk-room101/UE5DialogueEditor)
 
 ### Graphs:
 * [EasyComplex Tech - UE4 Graph Views](https://easycomplex-tech.com/blog/Unreal/AssetEditor/UEAssetEditorDev-AssetEditorGraph/) 
