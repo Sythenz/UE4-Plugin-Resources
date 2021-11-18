@@ -25,7 +25,7 @@ Hope that tip helps too!
 Unreal Engine:
 * [UE4 Documentation - Modules](https://docs.unrealengine.com/en-US/ProductionPipelines/BuildTools/UnrealBuildTool/ModuleFiles/index.html)
 * [UE4 Online Learning - Plugins](https://www.unrealengine.com/en-US/onlinelearning-courses/best-practices-for-creating-and-using-plugins)
-* [Assortment of Plugin Dev info - Ari Arnbjörnsson](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
+* [Ari Arnbjörnsson - Assortment of Plugin Dev info](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
 
 KantanDev:
 * [Kantan Dev - UE4 Plugins](http://kantandev.com/articles/ue4-plugins)
